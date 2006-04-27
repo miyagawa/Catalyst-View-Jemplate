@@ -8,3 +8,4 @@ t/lib/TestApp.pm
 t/lib/TestApp/root/bar.tt
 t/lib/TestApp/root/foo.tt
 t/lib/TestApp/View/Jemplate.pm
+META.yml                                 Module meta-data (added by MakeMaker)
