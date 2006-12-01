@@ -1,7 +1,7 @@
 package Catalyst::View::Jemplate;
 
 use strict;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use base qw( Catalyst::View );
 use File::Find::Rule;
